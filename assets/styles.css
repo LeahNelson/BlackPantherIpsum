@@ -1,0 +1,33 @@
+body {
+    background-color: #A49380
+}
+
+.jumbotron {
+    background-color: #597191
+}
+
+.jumbotron img {
+    position: relative;
+    width: 100%;
+    height: auto;
+}
+
+#paragen {
+    float: left;
+}
+
+.input-group-addon {
+    background-color: #7AA3F0;
+}
+
+.ipsumGen {
+    border-radius: 5px;
+}
+
+.genBtnText {
+    background-color: #7AA3F0;
+}
+
+.btnText {
+    color: #2F3D40;
+}
